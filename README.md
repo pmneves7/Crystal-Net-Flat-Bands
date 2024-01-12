@@ -1,10 +1,12 @@
 # Crystal-Net-Flat-Bands
 
 README
+
 Readme file for code associated with the paper "Crystal Net Catalog of Model Flat Band Materials" by P. M. Neves et al., published 2024 in npj Computational Materials.
 
 
 CONTACT
+
 If you run into code issues, try contacting Paul M. Neves, who wrote the code, current (January 2024) email pmneves@mit.edu. Otherwise email Joseph P. Checkelsky, checkelsky@mit.edu
 
 
@@ -31,6 +33,7 @@ INSTRUCTIONS
 
 
 DEPENDENCIES
+
 You need python3, as well as the python packages:
 -scipy
 -numpy
