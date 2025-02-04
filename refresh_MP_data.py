@@ -1,4 +1,4 @@
-from auto_TB_MP_v2 import *
+from main_search import *
 import os
 import shutil
 from pathlib import Path
