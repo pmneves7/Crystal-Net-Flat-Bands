@@ -11,7 +11,7 @@ from time import perf_counter
 import multiprocessing
 from functools import partial
 from pathlib import Path
-from auto_TB_MP_v2 import *
+from main_search import *
 from figures import *
 import warnings
 import traceback
